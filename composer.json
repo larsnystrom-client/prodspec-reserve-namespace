@@ -1,0 +1,7 @@
+{
+    "name": "prodspec/reserve-namespace",
+    "description": "A blank repo to reserve the namespace",
+    "require": {
+        "php": ">=8.1"
+    }
+}
